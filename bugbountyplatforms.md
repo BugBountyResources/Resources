@@ -17,16 +17,20 @@
  - ## Zerocopter
  - ## Detectify
 
-
+# Upcoming Platforms
+## Have an insider edge over the newer platforms, be the first to join them!
+ - ## PlugBounty
+ - ## BugsBounty (Indian origin)
+ 
 # Misc. Other Platforms (Open)
  
 
  - ## Hackenproof
  - ## BugBountyjp (dubious - Payment Delays, Unresponsive)
- - ## BugsBounty (Upcoming Platform, currently Internally running)
+ - ## BugsBounty (Upcoming Platform, currently running Internally and exclusively)
  - ## CESPPA
  - ## Hackrfi
- - ## Safehats (Although registration is open, goes through validation)
+ - ## Safehats (Indian origin, although registration is open, goes through validation)
  - ## Hacktrophy
  
 # Misc. other (Invite-only/closed) Platforms
@@ -37,6 +41,8 @@
  
  - ## Vulnscope
  - ## Antihack (dubious)
+ 
+ 
   
   
 
