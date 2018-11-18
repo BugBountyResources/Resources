@@ -8,7 +8,7 @@
  - ## BountyGraph (Software dependencies)
  - ## BountyFactory
 
- - ## OpenBugBounty (OBB)
+ - ## OpenBugBounty (OBB) [Limited to XSSi and other non-intrusive type vulnerabilities]
  
 # List of Top (Closed/Invite-only) Platforms
 
@@ -19,7 +19,7 @@
 
 # Upcoming Platforms
 ## Have an insider edge over the newer platforms, be the first to join them!
- - ## PlugBounty
+ - ## PlugBounty (Vulnerabilities in Plugins)
  - ## BugsBounty (Indian origin)
  
 # Misc. Other Platforms (Open)
@@ -40,9 +40,9 @@
  - ## Yogosha
  
  - ## Vulnscope
- - ## Antihack (dubious)
+ - ## Antihack (dubious/infamous for non-payments, and other issues)
  
- 
+ #### A word of caution goes here, we don't endorse or, opine about any platforms and the comments about them in parentheses merely reflect unbiased information which we gathered from the community and other credible sources. Platforms marked dubious, have payment delays and issues, so care should be taken while working on them.
   
   
 
