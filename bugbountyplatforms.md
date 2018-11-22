@@ -32,6 +32,7 @@
  - ## Hackrfi
  - ## Safehats (Indian origin, although registration is open, goes through validation)
  - ## Hacktrophy
+ - ## FireBounty (collection of bug bounty programs on different platforms including hackerone, bugcrowd, hackenproof etc.)
  
 # Misc. other (Invite-only/closed) Platforms
 
