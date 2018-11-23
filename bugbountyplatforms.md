@@ -5,7 +5,7 @@
  - ## Hackerone (H1)
  - ## BugCrowd (BC)
  - ## Intigriti 
- - ## BountyGraph (Software dependencies)
+ - ## BountyGraph (Software dependencies) [Closing on 12th December, 2018]
  - ## BountyFactory
 
  - ## OpenBugBounty (OBB) [Limited to XSSi and other non-intrusive type vulnerabilities]
