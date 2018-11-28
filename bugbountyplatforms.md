@@ -7,7 +7,6 @@
  - ## Intigriti 
  - ## BountyGraph (Software dependencies) [Closing on 12th December, 2018]
  - ## BountyFactory
-
  - ## OpenBugBounty (OBB) [Limited to XSSi and other non-intrusive type vulnerabilities]
  
 # List of Top (Closed/Invite-only) Platforms
@@ -32,14 +31,13 @@
  - ## Hackrfi
  - ## Safehats (Indian origin, although registration is open, goes through validation)
  - ## Hacktrophy
- - ## FireBounty (collection of bug bounty programs on different platforms including hackerone, bugcrowd, hackenproof etc.)
+ - ## FireBounty (collection/list of bug bounty programs on different platforms like hackerone, bugcrowd, etc.)
  
 # Misc. other (Invite-only/closed) Platforms
 
  - ## BugBountyZone
  - ## Federacy
  - ## Yogosha
- 
  - ## Vulnscope
  - ## Antihack (dubious/infamous for non-payments, and other issues)
  
