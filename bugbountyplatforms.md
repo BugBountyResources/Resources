@@ -31,6 +31,7 @@
  - ## Hackrfi
  - ## Safehats (Indian origin, although registration is open, goes through validation)
  - ## Hacktrophy
+ - ## Cyberarmy.id (Indonesian Origin)
  - ## FireBounty (collection/list of bug bounty programs on different platforms like hackerone, bugcrowd, etc.)
  
 # Misc. other (Invite-only/closed) Platforms
