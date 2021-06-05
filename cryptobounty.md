@@ -1,3 +1,5 @@
+# A List of Crypto Bug Bounty Programs on Immunefi
+
 | Program           | Max Bounty   | Assets                            | Program Link                                  |
 |-------------------|--------------|-----------------------------------|-----------------------------------------------|
 | xDai STAKE        | "$2,000,000" | Smart Contract                    | https://immunefi.com/bounty/xdaistake/        |
