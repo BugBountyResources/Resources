@@ -38,8 +38,9 @@ Storehouse of resources related to Bug Bounty Hunting collected from different s
 ## Misc. Other Platforms (Open)
  
 
- - ## Hackenproof
- - ## BugBountyjp (dubious - Payment Delays, Unresponsive)
+ - ## Hackenproof (crypto)
+ - ## Immunefi (cryto)
+ - ## BugBountyjp (Issues - Payment Delays)
  - ## BugsBounty (Upcoming Platform, currently running Internally and exclusively)
  - ## CESPPA
  - ## Hackrfi
@@ -55,5 +56,11 @@ Storehouse of resources related to Bug Bounty Hunting collected from different s
  - ## Yogosha
  - ## Vulnscope
  - ## Antihack (dubious/infamous for non-payments, and other issues)
+ 
+## Programs
+
+### List of Crypto Bounty programs
+ - [List of programs on Immunefi](https://github.com/BugBountyResources/Resources/blob/master/cryptobounty.md)
+
  
  #### A word of caution goes here, we don't endorse or, opine about any platforms and the comments about them in parentheses merely reflect unbiased information which we gathered from the community and other credible sources. Platforms marked dubious, have payment delays and issues, so care should be taken while working on them.
